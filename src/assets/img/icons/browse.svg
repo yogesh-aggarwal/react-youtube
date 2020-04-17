@@ -1,0 +1,81 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="118"
+  height="118"
+  viewBox="0 0 118 118"
+>
+  <g id="Group_6" data-name="Group 6" transform="translate(-147 -412)">
+    <rect
+      id="Rectangle_12"
+      data-name="Rectangle 12"
+      width="26"
+      height="26"
+      transform="translate(147 412)"
+      fill="#eee"
+    />
+    <rect
+      id="Rectangle_15"
+      data-name="Rectangle 15"
+      width="26"
+      height="26"
+      transform="translate(147 458)"
+      fill="#eee"
+    />
+    <rect
+      id="Rectangle_18"
+      data-name="Rectangle 18"
+      width="26"
+      height="26"
+      transform="translate(147 504)"
+      fill="#eee"
+    />
+    <rect
+      id="Rectangle_13"
+      data-name="Rectangle 13"
+      width="26"
+      height="26"
+      transform="translate(193 412)"
+      fill="#eee"
+    />
+    <rect
+      id="Rectangle_16"
+      data-name="Rectangle 16"
+      width="26"
+      height="26"
+      transform="translate(193 458)"
+      fill="#eee"
+    />
+    <rect
+      id="Rectangle_19"
+      data-name="Rectangle 19"
+      width="26"
+      height="26"
+      transform="translate(193 504)"
+      fill="#eee"
+    />
+    <rect
+      id="Rectangle_14"
+      data-name="Rectangle 14"
+      width="26"
+      height="26"
+      transform="translate(239 412)"
+      fill="#eee"
+    />
+    <rect
+      id="Rectangle_17"
+      data-name="Rectangle 17"
+      width="26"
+      height="26"
+      transform="translate(239 458)"
+      fill="#eee"
+    />
+    <rect
+      id="Rectangle_20"
+      data-name="Rectangle 20"
+      width="26"
+      height="26"
+      transform="translate(239 504)"
+      fill="#eee"
+    />
+  </g>
+</svg>
